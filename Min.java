@@ -7,7 +7,7 @@ public class Min {
 		//	if(a[i] < x)
 		//		x = a[i];
 		//}
-		// please
+		// please sdf
 		//
 		return x;
 
