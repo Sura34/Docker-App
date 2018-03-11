@@ -8,6 +8,7 @@ public class Min {
 		//		x = a[i];
 		//}
 		//new comment 
+		//
 		return x;
 
 	}
