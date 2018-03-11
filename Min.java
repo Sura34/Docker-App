@@ -2,7 +2,7 @@ public class Min {
 
 	public static int find_min(int[] a) {
 		int x, i;
-		x = a[2];
+		x = a[1];
 		//for(i = 1; i < a.length; i++){
 		//	if(a[i] < x)
 		//		x = a[i];
