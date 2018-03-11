@@ -14,7 +14,7 @@ public class Min {
 	public static void main(String args[]){
 		int[] intArray = new int[] {3,5,6};
 		int res = Min.find_min(intArray);
-		System.out.println("The minimum will be: " + res);
+		System.out.println("The min is: " + res);
 	
 	}
 
